@@ -21,7 +21,7 @@ say('BotzzMee-\nMD', {
   align: 'center',
   colors: ['blue']
 })
-say(`🐾 WhatsApp Bot MULTI-DEVICE By @${global.nameown}`, {
+say(`🐾 WhatsApp Bot METRO-POLICE By @${global.nameown}`, {
   font: 'console',
   align: 'center',
   colors: ['green']
