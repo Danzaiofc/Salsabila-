@@ -1,13 +1,6 @@
 /* THANKS TO
 Allah SWT
-Nurutomo
-Bochilgaming
-Rominaru
-Zukashika 
-Kannachann
-The.sad.Boy01
-Rasel comel
-Xtreshe (Beban)
+Salsabila
 Dll
 */
 
@@ -42,33 +35,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/lampu_philips267'
-global.sgh = 'https://github.com/BaraXD'
-global.sgc = 'https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T'
-global.sdc = 'https://t.me/BotzzMeeOFC'
-global.snh = 'wa.me/6283174508962'
+global.sig = 'https://instagram.com/inpdr.28'
+global.sgh = 'https://github.com/Danzaiofc/METROBOTIK'
+global.sgc = 'p'
+global.sdc = 'p'
+global.snh = 'wa.me/6282363579424'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083174508962'
-global.povo = '083174508962'
-global.pgopay = '083174508962'
-global.ppulsa = '083174508962'
-global.ppulsa2 = '08979530736'
-global.psaweria = 'https://saweria.co/BaraXDz'
+global.pdana = '082363579424'
+global.povo = '082363579424'
+global.pgopay = '082363579424'
+global.ppulsa = '082363579424'
+global.ppulsa2 = '082363579424'
+global.psaweria = 'p'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
-global.namebot = 'BotzzMee'
-global.nameown = 'ZukashikaⒸ︎'
+global.nomorbot = '623821077649'
+global.nomorown = '6283821077649'
+global.namebot = 'BotMETROPOLICE'
+global.nameown = 'SALSABILAⒸ︎'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee', true]
+  ['6283821077649'],
+  ['6283821077649'],
+  ['6283821077649'],
+  ['6283821077649', 'BotMETROPOLICE', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,13 +106,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'BotzzMee' //Main Watermark
-global.wm2 = 'Halo kak Selamat datang di BotzzMee👋'
-global.wm3 = '☘︎ BotzzMee'
+global.wm = 'BotMETROPOLICE' //Main Watermark
+global.wm2 = 'Halo Tod Selamat datang di BotMETROPOLICE 👋'
+global.wm3 = '☘︎ BotMETROPOLICE'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = 'ZukaShikaⒸ︎' 
+global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰| By ${global.nameown}`
+global.author = 'SALSABILAⒸ︎' 
 
 
 /*============== LOGO ==============*/
@@ -180,7 +173,7 @@ global.htjava = '☘︎' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'Cie mau nyolong ya'
-global.stickauth = `By BotzzMeeⒸ︎`
+global.stickauth = `By SalsabilaⒸ︎`
 
 global.multiplier = 38 // The higher, The harder levelup
 
